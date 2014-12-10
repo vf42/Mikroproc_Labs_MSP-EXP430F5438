@@ -1,0 +1,9 @@
+This is a set of example programs that exploit some features available in
+TI MSP430F5438A microcontroller and MSP-EXP430F5438 experimenter board. 
+
+Created and tested in Code Composer Studio v6.0.1.
+
+1. Leave only one RUN_XXX uncommented in select.h
+2. Run main.c
+3. ???
+4. PROFIT
